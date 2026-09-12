@@ -157,37 +157,34 @@ Anime catalog web application built with **ASP.NET Core MVC**.
 
 <div align="center">
 
-<a href="https://github.com/slanty62/AnimeWave">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slanty62&repo=AnimeWave&bg_color=0d1117&title_color=e11d48&text_color=ffffff&icon_color=e11d48&border_color=3f3f46" />
-</a>
+### 🌊 AnimeWave
+Modern anime catalog built with ASP.NET Core MVC.
 
-<a href="https://github.com/slanty62/CarRentalSite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slanty62&repo=CarRentalSite&bg_color=0d1117&title_color=e11d48&text_color=ffffff&icon_color=e11d48&border_color=3f3f46" />
-</a>
+[![AnimeWave](https://img.shields.io/badge/AnimeWave-OPEN_PROJECT-BE123C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slanty62/AnimeWave)
 
-<br>
+<br><br>
 
-<a href="https://github.com/slanty62/-Emperor-Akashi-Web-Site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slanty62&repo=-Emperor-Akashi-Web-Site&bg_color=0d1117&title_color=e11d48&text_color=ffffff&icon_color=e11d48&border_color=3f3f46" />
-</a>
+### 🚗 CarRentalSite
+Car rental web application built with ASP.NET Core.
 
-<a href="https://github.com/slanty62/SportShop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slanty62&repo=SportShop&bg_color=0d1117&title_color=e11d48&text_color=ffffff&icon_color=e11d48&border_color=3f3f46" />
-</a>
+[![CarRentalSite](https://img.shields.io/badge/CarRentalSite-OPEN_PROJECT-BE123C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slanty62/CarRentalSite)
 
-</div>
+<br><br>
 
----
+### 👑 Emperor Akashi Web Site
+Web project inspired by Seijuro Akashi.
 
-# 📊 Emperor's Statistics
+[![Akashi](https://img.shields.io/badge/Emperor_Akashi-OPEN_PROJECT-BE123C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slanty62/-Emperor-Akashi-Web-Site)
 
-<div align="center">
+<br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=slanty62&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=ffffff&icon_color=e11d48&border_color=3f3f46&ring_color=e11d48" />
+### 🛒 SportShop
+C# web application for a sports shop.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slanty62&layout=compact&langs_count=8&bg_color=0d1117&title_color=e11d48&text_color=ffffff&border_color=3f3f46" />
+[![SportShop](https://img.shields.io/badge/SportShop-OPEN_PROJECT-BE123C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slanty62/SportShop)
 
 </div>
+
 
 ---
 
@@ -196,26 +193,6 @@ Anime catalog web application built with **ASP.NET Core MVC**.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=slanty62&theme=dark&hide_border=false&background=0D1117&border=3F3F46&stroke=E11D48&ring=E11D48&fire=E11D48&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E11D48&sideLabels=FFFFFF&dates=A1A1AA" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=slanty62&bg_color=0d1117&color=ffffff&line=e11d48&point=be123c&area=true&hide_border=false&border_color=3f3f46" width="100%" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=slanty62&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
